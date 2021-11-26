@@ -1,0 +1,2 @@
+config:
+  pulumi-aws-ts:appName: pulumi-dev-test

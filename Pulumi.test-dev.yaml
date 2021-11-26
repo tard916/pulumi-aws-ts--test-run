@@ -1,0 +1,6 @@
+config:
+  aws:region: eu-west-3
+  pulumi-aws-ts:appEnvironment: dev
+  pulumi-aws-ts:appName: test-app-dev
+  pulumi-aws-ts:instanceType: t2.micro
+  pulumi-aws-ts:region: eu-west-3
